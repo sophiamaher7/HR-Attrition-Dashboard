@@ -10,7 +10,8 @@ The dashboard allows users to explore attrition across different dimensions, inc
 
 ## Dashboard Preview
 
-![HR Attrition Dashboard](screenshots/hr_attrition_dashboard.png)
+<img width="1127" height="590" alt="Screenshot 2026-09-03 015349" src="https://github.com/user-attachments/assets/1e01ba98-6878-44d9-bc9c-d9958984016c" />
+
 
 ## Key Metrics
 
@@ -66,5 +67,16 @@ HR-Attrition-Dashboard/
 ├── HR Attrition Dashboard.xlsx
 ├── README.md
 └── screenshots/
+
+## How to Use
+Download or clone the repository.
+Open HR Attrition Dashboard.xlsx using Microsoft Excel.
+Navigate to the dashboard worksheet.
+Use the available slicers to explore attrition across different employee segments.
+Author
+
+Sophia Maher
+
+Aspiring Data Analyst | Economics Graduate | Data Analytics
     └── hr_attrition_dashboard.png
     
