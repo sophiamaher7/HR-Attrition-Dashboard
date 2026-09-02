@@ -68,15 +68,6 @@ HR-Attrition-Dashboard/
 ├── README.md
 └── screenshots/
 
-## How to Use
-Download or clone the repository.
-Open HR Attrition Dashboard.xlsx using Microsoft Excel.
-Navigate to the dashboard worksheet.
-Use the available slicers to explore attrition across different employee segments.
-Author
 
-Sophia Maher
 
-Aspiring Data Analyst | Economics Graduate | Data Analytics
-    └── hr_attrition_dashboard.png
-    
+
